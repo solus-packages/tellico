@@ -1,0 +1,60 @@
+<PISI>
+    <Source>
+        <Name>tellico</Name>
+        <Packager>
+            <Name>Bryan T. Meyers</Name>
+            <Email>bmeyers@datadrake.com</Email>
+        </Packager>
+        <License>GPL-2.0</License>
+        <PartOf>office</PartOf>
+        <Summary xml:lang="en">A collection manager for KDE</Summary>
+        <Description xml:lang="en">Tellico makes it easy to track your books, videos, music, even your wine and anything else. A simple and intuitive interface shows cover images, groupings, and any detail you want. Grab information from many popular Internet sites, including IMDB.com, Amazon.com, and most libraries.
+</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>tellico</Name>
+        <Summary xml:lang="en">A collection manager for KDE</Summary>
+        <Description xml:lang="en">Tellico makes it easy to track your books, videos, music, even your wine and anything else. A simple and intuitive interface shows cover images, groupings, and any detail you want. Grab information from many popular Internet sites, including IMDB.com, Amazon.com, and most libraries.
+</Description>
+        <PartOf>office</PartOf>
+        <Files>
+            <Path fileType="executable">/usr/bin</Path>
+            <Path fileType="data">/usr/share/applications/org.kde.tellico.desktop</Path>
+            <Path fileType="data">/usr/share/config.kcfg/tellico_config.kcfg</Path>
+            <Path fileType="doc">/usr/share/doc</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/128x128/apps/tellico.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/128x128/mimetypes/application-x-tellico.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/16x16/apps/tellico.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/16x16/mimetypes/application-x-tellico.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/22x22/apps/tellico.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/22x22/mimetypes/application-x-tellico.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/32x32/apps/tellico.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/32x32/mimetypes/application-x-tellico.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/48x48/apps/tellico.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/48x48/mimetypes/application-x-tellico.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/64x64/apps/tellico.png</Path>
+            <Path fileType="data">/usr/share/icons/hicolor/64x64/mimetypes/application-x-tellico.png</Path>
+            <Path fileType="data">/usr/share/kconf_update/tellico-1-3-update.pl</Path>
+            <Path fileType="data">/usr/share/kconf_update/tellico-rename.upd</Path>
+            <Path fileType="data">/usr/share/kconf_update/tellico.upd</Path>
+            <Path fileType="data">/usr/share/kxmlgui5/tellico/tellicoui.rc</Path>
+            <Path fileType="localedata">/usr/share/locale</Path>
+            <Path fileType="data">/usr/share/metainfo/org.kde.tellico.appdata.xml</Path>
+            <Path fileType="data">/usr/share/mime/packages/tellico.xml</Path>
+            <Path fileType="data">/usr/share/tellico</Path>
+            <Path fileType="data">/usr/share/xdg/tellico-script.knsrc</Path>
+            <Path fileType="data">/usr/share/xdg/tellico-template.knsrc</Path>
+            <Path fileType="data">/usr/share/xdg/tellicorc</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2017-11-25</Date>
+            <Version>3.1</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Bryan T. Meyers</Name>
+            <Email>bmeyers@datadrake.com</Email>
+        </Update>
+    </History>
+</PISI>
