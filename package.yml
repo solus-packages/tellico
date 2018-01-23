@@ -1,11 +1,11 @@
 name       : tellico
-version    : 3.1
-release    : 1
+version    : 3.1.1
+release    : 2
 source     :
-    - http://tellico-project.org/files/tellico-3.1.tar.xz : ca549c249ee2562ef583a2b2dedc76843660ff726ed2cd26025dd4607b59a124
+    - http://tellico-project.org/files/tellico-3.1.1.tar.xz : e55c64bdc7dcb2c6ae6b9edf182cc177a57ed22db1371400cfeefd07346ecbc7
 license    : GPL-2.0
 component  : office
-summary    :  A collection manager for KDE
+summary    : A collection manager for KDE
 description: |
     Tellico makes it easy to track your books, videos, music, even your wine and anything else. A simple and intuitive interface shows cover images, groupings, and any detail you want. Grab information from many popular Internet sites, including IMDB.com, Amazon.com, and most libraries.
 builddeps  :
