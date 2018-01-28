@@ -36,7 +36,7 @@ libQt5Network.so.5
 libQt5Widgets.so.5
 libQt5Xml.so.5
 libc.so.6
-libcdio.so.16
+libcdio.so.18
 libexempi.so.3
 libexslt.so.0
 libpoppler-qt5.so.1
