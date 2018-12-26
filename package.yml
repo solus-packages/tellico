@@ -1,8 +1,8 @@
 name       : tellico
-version    : 3.1.1
-release    : 3
+version    : 3.1.4
+release    : 4
 source     :
-    - http://tellico-project.org/files/tellico-3.1.1.tar.xz : e55c64bdc7dcb2c6ae6b9edf182cc177a57ed22db1371400cfeefd07346ecbc7
+    - http://tellico-project.org/files/tellico-3.1.4.tar.xz : 8f611e3be8be095de38fe27d76f3ddeae09962c9aec00298031cc3e71eae95f9
 license    : GPL-2.0
 component  : office
 summary    : A collection manager for KDE
@@ -10,12 +10,11 @@ description: |
     Tellico makes it easy to track your books, videos, music, even your wine and anything else. A simple and intuitive interface shows cover images, groupings, and any detail you want. Grab information from many popular Internet sites, including IMDB.com, Amazon.com, and most libraries.
 builddeps  :
     - pkgconfig(exempi-2.0)
-    - pkgconfig(gl)
-    - pkgconfig(Qt5Core)
     - pkgconfig(libcdio)
     - pkgconfig(libxslt)
     - pkgconfig(poppler-qt5)
     - pkgconfig(taglib)
+    - pkgconfig(Qt5Core)
     - extra-cmake-modules
     - karchive-devel
     - kcrash-devel
@@ -29,9 +28,10 @@ builddeps  :
     - kwallet-devel
     - kwindowsystem-devel
     - libkcddb-devel
+    - libksane-devel
 setup      : |
-    %cmake .
+    %cmake_ninja
 build      : |
-    %make
-install    : |
-    %make_install
+    %ninja_build
+install    : |-
+    %ninja_install

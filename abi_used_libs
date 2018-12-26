@@ -20,6 +20,7 @@ libKF5KIOGui.so.5
 libKF5KIOWidgets.so.5
 libKF5NewStuff.so.5
 libKF5Parts.so.5
+libKF5Sane.so.5
 libKF5Service.so.5
 libKF5Solid.so.5
 libKF5SonnetCore.so.5
