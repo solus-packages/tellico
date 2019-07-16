@@ -1,6 +1,6 @@
 name       : tellico
 version    : 3.1.4
-release    : 4
+release    : 5
 source     :
     - http://tellico-project.org/files/tellico-3.1.4.tar.xz : 8f611e3be8be095de38fe27d76f3ddeae09962c9aec00298031cc3e71eae95f9
 license    : GPL-2.0

@@ -2,15 +2,15 @@
     <Source>
         <Name>tellico</Name>
         <Packager>
-            <Name>Clive Johnston</Name>
-            <Email>clivejo@protonmail.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>GPL-2.0</License>
         <PartOf>office</PartOf>
         <Summary xml:lang="en">A collection manager for KDE</Summary>
         <Description xml:lang="en">Tellico makes it easy to track your books, videos, music, even your wine and anything else. A simple and intuitive interface shows cover images, groupings, and any detail you want. Grab information from many popular Internet sites, including IMDB.com, Amazon.com, and most libraries.
 </Description>
-        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://getsol.us/sources/README.Solus</Archive>
     </Source>
     <Package>
         <Name>tellico</Name>
@@ -346,12 +346,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="4">
-            <Date>2018-12-23</Date>
+        <Update release="5">
+            <Date>2019-04-18</Date>
             <Version>3.1.4</Version>
             <Comment>Packaging update</Comment>
-            <Name>Clive Johnston</Name>
-            <Email>clivejo@protonmail.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>
