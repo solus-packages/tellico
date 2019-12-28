@@ -40,6 +40,7 @@ libc.so.6
 libcdio.so.18
 libexempi.so.3
 libexslt.so.0
+libm.so.6
 libpoppler-qt5.so.1
 libstdc++.so.6
 libtag.so.1

@@ -1,8 +1,8 @@
 name       : tellico
-version    : 3.1.4
-release    : 5
+version    : 3.2.3
+release    : 6
 source     :
-    - http://tellico-project.org/files/tellico-3.1.4.tar.xz : 8f611e3be8be095de38fe27d76f3ddeae09962c9aec00298031cc3e71eae95f9
+    - https://tellico-project.org/files/tellico-3.2.3.tar.xz : f4456eb31f71151b9786fa171531265b421b2de8140e9adbf6bb584862c42952
 license    : GPL-2.0
 component  : office
 summary    : A collection manager for KDE

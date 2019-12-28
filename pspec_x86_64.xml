@@ -2,8 +2,8 @@
     <Source>
         <Name>tellico</Name>
         <Packager>
-            <Name>Joey Riches</Name>
-            <Email>josephriches@gmail.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Packager>
         <License>GPL-2.0</License>
         <PartOf>office</PartOf>
@@ -23,42 +23,22 @@
             <Path fileType="data">/usr/share/applications/org.kde.tellico.desktop</Path>
             <Path fileType="data">/usr/share/config.kcfg/tellico_config.kcfg</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/advanced.docbook</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/amazon-options.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/configuration.docbook</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/csv-dialog.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/details.docbook</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/entry-editor1.png</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/entry-editor3.png</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/entry-editor4.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/entry-editor5.png</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/export-bibtex.png</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/export-csv.png</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/export-html.png</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/export-options.png</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/externalexec-options.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/faqs.docbook</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/fetch-dialog.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/fields-dialog.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/filter-dialog.png</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/filter-view.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/fundamentals.docbook</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/general-options.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/hacking.docbook</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/imdb-options.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/importing-exporting.docbook</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/index.cache.bz2</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/index.docbook</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/loan-dialog.png</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/loan-view.png</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/main-window.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/menus.docbook</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/multiple-sources-options.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/print-options.png</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/report-dialog.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/source-options.png</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/sru-options.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/template-options.png</Path>
-            <Path fileType="doc">/usr/share/doc/HTML/ca/tellico/z3950-options.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/de/tellico/advanced.docbook</Path>
             <Path fileType="doc">/usr/share/doc/HTML/de/tellico/configuration.docbook</Path>
             <Path fileType="doc">/usr/share/doc/HTML/de/tellico/details.docbook</Path>
@@ -116,6 +96,42 @@
             <Path fileType="doc">/usr/share/doc/HTML/es/tellico/index.cache.bz2</Path>
             <Path fileType="doc">/usr/share/doc/HTML/es/tellico/index.docbook</Path>
             <Path fileType="doc">/usr/share/doc/HTML/es/tellico/menus.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/advanced.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/amazon-options.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/configuration.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/csv-dialog.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/details.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/entry-editor1.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/entry-editor3.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/entry-editor4.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/entry-editor5.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/export-bibtex.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/export-csv.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/export-html.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/export-options.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/export-pdb.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/externalexec-options.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/faqs.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/fetch-dialog.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/fields-dialog.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/filter-dialog.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/filter-view.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/fundamentals.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/general-options.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/hacking.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/imdb-options.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/importing-exporting.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/index.cache.bz2</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/index.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/loan-dialog.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/loan-view.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/menus.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/multiple-sources-options.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/print-options.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/source-options.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/sru-options.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/template-options.png</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/fr/tellico/z3950-options.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/nl/tellico/advanced.docbook</Path>
             <Path fileType="doc">/usr/share/doc/HTML/nl/tellico/configuration.docbook</Path>
             <Path fileType="doc">/usr/share/doc/HTML/nl/tellico/details.docbook</Path>
@@ -126,6 +142,36 @@
             <Path fileType="doc">/usr/share/doc/HTML/nl/tellico/index.cache.bz2</Path>
             <Path fileType="doc">/usr/share/doc/HTML/nl/tellico/index.docbook</Path>
             <Path fileType="doc">/usr/share/doc/HTML/nl/tellico/menus.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt/tellico/advanced.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt/tellico/configuration.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt/tellico/details.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt/tellico/faqs.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt/tellico/fundamentals.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt/tellico/hacking.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt/tellico/importing-exporting.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt/tellico/index.cache.bz2</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt/tellico/index.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt/tellico/menus.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt_BR/tellico/advanced.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt_BR/tellico/configuration.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt_BR/tellico/details.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt_BR/tellico/faqs.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt_BR/tellico/fundamentals.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt_BR/tellico/hacking.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt_BR/tellico/importing-exporting.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt_BR/tellico/index.cache.bz2</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt_BR/tellico/index.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/pt_BR/tellico/menus.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/sv/tellico/advanced.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/sv/tellico/configuration.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/sv/tellico/details.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/sv/tellico/faqs.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/sv/tellico/fundamentals.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/sv/tellico/hacking.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/sv/tellico/importing-exporting.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/sv/tellico/index.cache.bz2</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/sv/tellico/index.docbook</Path>
+            <Path fileType="doc">/usr/share/doc/HTML/sv/tellico/menus.docbook</Path>
             <Path fileType="doc">/usr/share/doc/HTML/uk/tellico/advanced.docbook</Path>
             <Path fileType="doc">/usr/share/doc/HTML/uk/tellico/amazon-options.png</Path>
             <Path fileType="doc">/usr/share/doc/HTML/uk/tellico/configuration.docbook</Path>
@@ -179,7 +225,6 @@
             <Path fileType="data">/usr/share/kconf_update/tellico-rename.upd</Path>
             <Path fileType="data">/usr/share/kconf_update/tellico.upd</Path>
             <Path fileType="data">/usr/share/kxmlgui5/tellico/tellicoui.rc</Path>
-            <Path fileType="localedata">/usr/share/locale/ast/LC_MESSAGES/tellico.mo</Path>
             <Path fileType="localedata">/usr/share/locale/bg/LC_MESSAGES/tellico.mo</Path>
             <Path fileType="localedata">/usr/share/locale/bs/LC_MESSAGES/tellico.mo</Path>
             <Path fileType="localedata">/usr/share/locale/ca/LC_MESSAGES/tellico.mo</Path>
@@ -200,8 +245,8 @@
             <Path fileType="localedata">/usr/share/locale/hu/LC_MESSAGES/tellico.mo</Path>
             <Path fileType="localedata">/usr/share/locale/ia/LC_MESSAGES/tellico.mo</Path>
             <Path fileType="localedata">/usr/share/locale/it/LC_MESSAGES/tellico.mo</Path>
-            <Path fileType="localedata">/usr/share/locale/ja/LC_MESSAGES/tellico.mo</Path>
             <Path fileType="localedata">/usr/share/locale/kk/LC_MESSAGES/tellico.mo</Path>
+            <Path fileType="localedata">/usr/share/locale/ko/LC_MESSAGES/tellico.mo</Path>
             <Path fileType="localedata">/usr/share/locale/lt/LC_MESSAGES/tellico.mo</Path>
             <Path fileType="localedata">/usr/share/locale/mr/LC_MESSAGES/tellico.mo</Path>
             <Path fileType="localedata">/usr/share/locale/ms/LC_MESSAGES/tellico.mo</Path>
@@ -231,10 +276,12 @@
             <Path fileType="data">/usr/share/tellico/arxiv2tellico.xsl</Path>
             <Path fileType="data">/usr/share/tellico/biblioshare2tellico.xsl</Path>
             <Path fileType="data">/usr/share/tellico/bibtex-translation.xml</Path>
+            <Path fileType="data">/usr/share/tellico/bibtexml2tellico.xsl</Path>
             <Path fileType="data">/usr/share/tellico/bluray-logo.png</Path>
             <Path fileType="data">/usr/share/tellico/boardgamegeek2tellico.xsl</Path>
             <Path fileType="data">/usr/share/tellico/cassette-logo.png</Path>
             <Path fileType="data">/usr/share/tellico/cd-logo.png</Path>
+            <Path fileType="data">/usr/share/tellico/comicvine2tellico.xsl</Path>
             <Path fileType="data">/usr/share/tellico/crossref2tellico.xsl</Path>
             <Path fileType="data">/usr/share/tellico/data-sources/dark_horse_comics.py</Path>
             <Path fileType="data">/usr/share/tellico/data-sources/dark_horse_comics.py.spec</Path>
@@ -277,6 +324,7 @@
             <Path fileType="data">/usr/share/tellico/pics/gcstar.png</Path>
             <Path fileType="data">/usr/share/tellico/pics/goodreads.png</Path>
             <Path fileType="data">/usr/share/tellico/pics/griffith.png</Path>
+            <Path fileType="data">/usr/share/tellico/pics/librarything.png</Path>
             <Path fileType="data">/usr/share/tellico/pics/nocover_album.png</Path>
             <Path fileType="data">/usr/share/tellico/pics/nocover_bibtex.png</Path>
             <Path fileType="data">/usr/share/tellico/pics/nocover_boardgame.png</Path>
@@ -333,7 +381,6 @@
             <Path fileType="data">/usr/share/tellico/tellico2html.js</Path>
             <Path fileType="data">/usr/share/tellico/tellico2html.xsl</Path>
             <Path fileType="data">/usr/share/tellico/tellico2onix.xsl</Path>
-            <Path fileType="data">/usr/share/tellico/thegamesdb2tellico.xsl</Path>
             <Path fileType="data">/usr/share/tellico/unixref2tellico.xsl</Path>
             <Path fileType="data">/usr/share/tellico/vhs-logo.png</Path>
             <Path fileType="data">/usr/share/tellico/vinoxml2tellico.xsl</Path>
@@ -346,12 +393,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="5">
-            <Date>2019-04-18</Date>
-            <Version>3.1.4</Version>
+        <Update release="6">
+            <Date>2019-12-14</Date>
+            <Version>3.2.3</Version>
             <Comment>Packaging update</Comment>
-            <Name>Joey Riches</Name>
-            <Email>josephriches@gmail.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Update>
     </History>
 </PISI>
