@@ -1,6 +1,6 @@
 name       : tellico
 version    : 3.2.3
-release    : 7
+release    : 8
 source     :
     - https://tellico-project.org/files/tellico-3.2.3.tar.xz : f4456eb31f71151b9786fa171531265b421b2de8140e9adbf6bb584862c42952
 license    : GPL-2.0
